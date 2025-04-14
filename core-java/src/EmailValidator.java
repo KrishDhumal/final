@@ -1,4 +1,4 @@
-
+//just read since they were all if cond
 public class EmailValidator {
 	// Rules for validating email are...
 	// 1. Only 1 occurrence of @ and .

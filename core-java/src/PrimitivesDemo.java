@@ -1,4 +1,4 @@
-
+//read
 public class PrimitivesDemo {
 
 	public static void main(String[] args) {

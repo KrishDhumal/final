@@ -1,3 +1,4 @@
+//read
 public class CheckPalendrome {
 
 	public static void main(String[] args) {
